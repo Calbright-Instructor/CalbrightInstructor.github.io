@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Welcome to IT 533 (Instructor Demo) of building your IT 533 Neworking Blog. 
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+The intent of this site is to provide a demonstration to students regarding how to build a blog site showcasing their IT 533 work.
